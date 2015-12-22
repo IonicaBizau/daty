@@ -15,7 +15,7 @@ console.log(revolutionDate.format("LLL"));
 // => December 16, 1989 12:00 AM
 
 // Make a difference in years
-var difference = new Daty().diff(revolutionDate, "YYYY");
+var difference = new Daty().diff(revolutionDate, "years");
 
 console.log(`Right now there are ${difference} years since the Romanian revolution, 1989.`);
 // => Right now there are 26 years since the Romanian revolution, 1989.

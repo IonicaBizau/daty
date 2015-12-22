@@ -31,7 +31,7 @@ tester.describe("daty", test => {
           , c = new Daty(1989, 11, 16)
           ;
 
-        test.expect(d.diff(c, "YYYY")).toBe(26);
+        test.expect(d.diff(c, "years")).toBe(26);
     });
     test.should("check if two dates are equal", () => {
         var d = new Daty(2015, 11, 16)
