@@ -1,0 +1,25 @@
+{
+  "name": "daty",
+  "version": "1.0.0",
+  "description": "A tiny library to manage date objects.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "date",
+    "object",
+    "tiny"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "dependencies": {
+    "add-subtract-date": "^1.0.0",
+    "date-unit-ms": "^1.1.0",
+    "formatoid": "^1.0.0"
+  }
+}
