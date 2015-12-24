@@ -22,5 +22,8 @@
     "date-unit-ms": "^1.1.0",
     "diff-dates": "^1.0.0",
     "formatoid": "^1.0.0"
+  },
+  "blah": {
+    "h_img": "http://i.imgur.com/E2GKGYK.png"
   }
 }
