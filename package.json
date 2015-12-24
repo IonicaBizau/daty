@@ -25,5 +25,14 @@
   },
   "blah": {
     "h_img": "http://i.imgur.com/E2GKGYK.png"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/daty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/daty/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/daty#readme"
 }
