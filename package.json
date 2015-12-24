@@ -20,6 +20,7 @@
   "dependencies": {
     "add-subtract-date": "^1.0.0",
     "date-unit-ms": "^1.1.0",
+    "diff-dates": "^1.0.0",
     "formatoid": "^1.0.0"
   }
 }
