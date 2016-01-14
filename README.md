@@ -1,8 +1,8 @@
 [![daty](http://i.imgur.com/E2GKGYK.png)](#)
 
-# daty [![Support this project][donate-now]][paypal-donations]
+# daty [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/daty.svg)](https://www.npmjs.com/package/daty) [![Downloads](https://img.shields.io/npm/dt/daty.svg)](https://www.npmjs.com/package/daty) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-A tiny library to manage date objects.
+> A tiny library to manage date objects.
 
 ## Installation
 
@@ -128,6 +128,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`idea`](https://github.com/IonicaBizau/idea)
 
 ## License
 
