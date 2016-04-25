@@ -1,16 +1,20 @@
+
 [![daty](http://i.imgur.com/E2GKGYK.png)](#)
 
 # daty [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/daty.svg)](https://www.npmjs.com/package/daty) [![Downloads](https://img.shields.io/npm/dt/daty.svg)](https://www.npmjs.com/package/daty) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A tiny library to manage date objects.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save daty
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const Daty = require("daty");
@@ -36,7 +40,8 @@ console.log(`Right now there are ${difference} years since the Romanian revoluti
 // => Right now there are 26 years since the Romanian revolution, 1989.
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `format(s)`
 Formats the date by specifying the format.
@@ -123,15 +128,20 @@ Checks if the date instance is valid.
 #### Return
 - **Boolean** `true` if the date object is valid, `false` otherwise.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`idea`](https://github.com/IonicaBizau/idea)
 
-## License
+ - [`cli-sunset`](https://github.com/IonicaBizau/cli-sunset)—A fancy command line tool for knowing the sunset time.
+ - [`idea`](https://github.com/IonicaBizau/idea)—A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
+ - [`sunset-year`](https://github.com/IonicaBizau/sunset-year#readme)—Sunset times during the year, every week.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 

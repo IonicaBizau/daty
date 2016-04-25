@@ -1,6 +1,6 @@
 {
   "name": "daty",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny library to manage date objects.",
   "main": "lib/index.js",
   "directories": {
@@ -34,5 +34,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/daty/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/daty#readme"
+  "homepage": "https://github.com/IonicaBizau/daty#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
