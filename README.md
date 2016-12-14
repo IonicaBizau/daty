@@ -22,7 +22,6 @@ $ npm i --save daty
 const Daty = require("daty");
 
 // You can initialize Daty using the date parameters
-debugger
 var d = new Daty(2015, 11, 16);
 
 // ...but you have friendly date formatting
