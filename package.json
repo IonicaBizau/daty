@@ -1,6 +1,6 @@
 {
   "name": "daty",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A tiny library to manage date objects.",
   "main": "lib/index.js",
   "directories": {
@@ -15,7 +15,7 @@
     "object",
     "tiny"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "dependencies": {
     "add-subtract-date": "^1.0.0",
@@ -44,9 +44,9 @@
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
