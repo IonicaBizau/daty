@@ -87,3 +87,9 @@ Checks if the date instance is valid.
 #### Return
 - **Boolean** `true` if the date object is valid, `false` otherwise.
 
+### `utc()`
+Useful to format the date in UTC.
+
+#### Return
+- **Daty** A new `Daty` instance which will be formatted in UTC output.
+
