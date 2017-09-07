@@ -1,6 +1,6 @@
 {
   "name": "daty",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A tiny library to manage date objects.",
   "main": "lib/index.js",
   "directories": {
@@ -48,6 +48,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
