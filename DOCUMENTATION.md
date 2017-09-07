@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Formats the date by specifying the format.
 
 #### Params
+
 - **String** `s`: The date format using the [`formatoid`](https://github.com/IonicaBizau/formatoid) supported fields or the presets:
  - `L` : `M/D/YYYY`
  - `LL`: `MMMM D, YYYY`
@@ -21,6 +22,7 @@ If not specified, the date object will be stringified using the native `toString
 Adds a specified number of units to the date.
 
 #### Params
+
 - **String** `count`: The number of units to subtract.
 - **String** `what`: One of the units supported by [`add-subtract-date`](https://github.com/IonicaBizau/add-subtract-date).
 
@@ -31,6 +33,7 @@ Adds a specified number of units to the date.
 Subtracts a specified number of units to the date.
 
 #### Params
+
 - **String** `count`: The number of units to subtract.
 - **String** `what`: One of the units supported by [`add-subtract-date`](https://github.com/IonicaBizau/add-subtract-date).
 
@@ -47,6 +50,7 @@ Clones the `Daty` instance.
 Makes the difference between the current instance and a specified `Daty` instance.
 
 #### Params
+
 - **Daty|Date** `d`: The date object.
 - **String** `units`: One of the units supported by [`diff-dates`](https://github.com/IonicaBizau/diff-dates)
 
@@ -57,6 +61,7 @@ Makes the difference between the current instance and a specified `Daty` instanc
 Checks if the date instance is equal to another date object.
 
 #### Params
+
 - **Daty|Date** `d`: The date object.
 
 #### Return
@@ -66,6 +71,7 @@ Checks if the date instance is equal to another date object.
 Checks if the date instance is before to another date object.
 
 #### Params
+
 - **Daty|Date** `d`: The date object.
 
 #### Return
@@ -75,6 +81,7 @@ Checks if the date instance is before to another date object.
 Checks if the date instance is after another date object.
 
 #### Params
+
 - **Daty|Date** `d`: The date object.
 
 #### Return
