@@ -58,7 +58,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -198,6 +200,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`cute-logger`](https://github.com/IonicaBizau/cute-logger)—Simple way to log messages in stdout or other stream.
  - [`git-stats-html`](https://github.com/IonicaBizau/git-stats-html#readme)—Turn git-stats result into HTML output.
  - [`idea`](https://github.com/IonicaBizau/idea)—A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
+ - [`sunset-app-bloggify`](https://github.com/Bloggify/sunset#readme) (by Bloggify)—Get sunset times.
  - [`sunset-year`](https://github.com/IonicaBizau/sunset-year#readme)—Sunset times during the year, every week.
 
 ## :scroll: License
