@@ -12,7 +12,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save daty
+# Using npm
+npm install --save daty
+
+# Using yarn
+yarn add daty
 ```
 
 
